@@ -1,0 +1,28 @@
+name: Conversations
+favicon: null
+layout_spectrum: 0.1530475
+typography_spectrum: 0.7586211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e7f4fc'
+    - '#201207'
+    - '#04e7ff'
+    - '#a1b0b5'
+    - '#1275b4'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
