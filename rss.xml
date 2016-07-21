@@ -4,7 +4,7 @@
         <description><![CDATA[Conversations]]></description>
         <link>https://thegrid.ai/conversations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 04:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 04:10:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/conversations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/conversations/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">cd02a627-5b37-4bc1-af9b-2170ea5d45f2</guid>
             <pubDate>Sun, 13 Dec 2015 15:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is another Post — not sure how you think its going to flow, until you see it.]]></title>
+            <description><![CDATA[<article><h1>This is another Post — not sure how you think its going to flow, until you see it.</h1><p>When i first started using the grid, i was impressed, and the more i used the more i got confused, this is not a light tool. the whole website publishing approach must rebooted.</p></article>]]></description>
+            <link>https://thegrid.ai/conversations/this-is-another-post-not-sure-how-you-think-its-going-to-f/index.html</link>
+            <guid isPermaLink="false">47d1e8e4-3412-4da5-b999-462fe6a7ac01</guid>
+            <pubDate>Thu, 21 Jul 2016 04:10:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is a Portfolio piece #1]]></title>
