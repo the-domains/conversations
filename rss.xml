@@ -4,7 +4,7 @@
         <description><![CDATA[Conversations]]></description>
         <link>https://thegrid.ai/conversations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 15:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 04:07:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/conversations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/conversations/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">cd02a627-5b37-4bc1-af9b-2170ea5d45f2</guid>
             <pubDate>Sun, 13 Dec 2015 15:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is a Portfolio piece #1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f961bf6d-38db-4da0-a97e-5576faa44af8.png">]]></description>
+            <link>https://thegrid.ai/conversations/this-is-a-portfolio-piece-1/index.html</link>
+            <guid isPermaLink="false">36c26a3c-d1b4-4266-9210-be574f5e8be0</guid>
+            <pubDate>Thu, 21 Jul 2016 04:07:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
